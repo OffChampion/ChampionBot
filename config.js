@@ -54,22 +54,22 @@ global.snh = 'https://nhentai.net/g/365296/'
 global.pdana = 'gaada'
 global.povo = 'gaada'
 global.pgopay = 'gaada'
-global.ppulsa = '60147366955 maxis'
-global.ppulsa2 = '60147366955 maxis'
+global.ppulsa = '601123559717 maxis'
+global.ppulsa2 = '60103641354 digi'
 global.psaweria = 'gaada'
 
 /*============== NOMOR ==============*/
-global.nomorbot = '601172381193'
-global.nomorown = '601172381193'
-global.namebot = 'TuruBotz🛌'
-global.nameown = 'TuruBotz🛌'
+global.nomorbot = '601123559717'
+global.nomorown = '601123559717'
+global.namebot = 'AnonymousBot👾'
+global.nameown = 'AnonymousBot👾'
 
 
 /*============== STAFF ==============*/
 global.owner = [
-  ['601172381193'],
-  ['601172381193'],
-  ['60147366955', 'TuruBotz🛌 !', true]
+  ['601123559717'],
+  ['601123559717'],
+  ['601123559717', 'AnonymousBot👾 !', true]
   // [number, dia creator/owner?, dia developer?]
 ] // Put your number here
 global.mods = [] // Want some help?
@@ -115,13 +115,13 @@ global.APIKeys = { // APIKey Here
 
 /*============== WATERMARK ==============*/
 //GANTI SETERAH MU
-global.wm = '© TuruBotz🛌' //Main Watermark
-global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.wm3 = '⫹⫺Sasyi By Putbotz'
+global.wm = '© AnonymousBot👾' //Main Watermark
+global.wm2 = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘AnonymousBot👾˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.wm3 = '⫹⫺AnonymousBot👾 By Putbotz'
 global.botdate = `⫹⫺ 𝗗𝗮𝘁𝗲: ${week} ${date}`
 global.bottime = `𝗧 𝗜 𝗠 𝗘 : ${wktuwib}`
-global.titlebot = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
-global.author = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘TuruBotz🛌˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.titlebot = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘AnonymousBot👾˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
+global.author = '꒷︶꒷꒥꒷ ‧₊˚ ꒰ฅ˘AnonymousBot👾˘ฅ ꒱ ‧₊˚꒷︶꒷꒥꒷'
 
 
 /*============== LOGO ==============*/
